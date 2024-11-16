@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52fcec85.css",
+    "main.js": "/static/js/main.490137af.js",
+    "static/js/453.39112166.chunk.js": "/static/js/453.39112166.chunk.js",
+    "static/media/volcanoe1.jpg": "/static/media/volcanoe1.8b02e6127810e9cacd1d.jpg",
+    "static/media/volcanoe2.jpg": "/static/media/volcanoe2.a1407cbebca9a2921566.jpg",
+    "index.html": "/index.html",
+    "main.52fcec85.css.map": "/static/css/main.52fcec85.css.map",
+    "main.490137af.js.map": "/static/js/main.490137af.js.map",
+    "453.39112166.chunk.js.map": "/static/js/453.39112166.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fcec85.css",
+    "static/js/main.490137af.js"
+  ]
+}
